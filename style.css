@@ -1,0 +1,38 @@
+body {
+  background-color: #112233;
+  color: #aabbcc;
+  font-family: sans;
+  font-size: 14px;
+  line-height: 22px;
+  cursor: default;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: white;
+  text-transform: uppercase;
+  font-size: 12px;
+}
+
+.rel {
+  position: relative;
+  padding: 0px;
+}
+
+.centered {
+  width: 345px;
+  padding: 0px;
+  background-color: rgb(144, 0, 255);
+  height: 115px;
+  display: block;
+}
+
+.circle {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 10px;
+  left: 10px;
+  border: 1px solid #ffffff;
+  border-radius: 20px;
+}
